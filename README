@@ -1,0 +1,10 @@
+### Weather Whether
+
+The Weather Dashboard is a web application that allows users to search for the current weather and 5-day forecast for any city. It leverages the OpenWeatherMap API to retrieve weather data and dynamically updates the user interface based on the search input. The application also stores the user's search history, allowing easy access to previously searched cities.
+
+
+# OpenWeatherMap API Endpoints Used:
+
+- 5-Day Weather Forecast API: For retrieving current weather and a 5-day forecast based on geographic coordinates.
+
+- Geocoding API: For converting city names into geographic coordinates (latitude and longitude).
